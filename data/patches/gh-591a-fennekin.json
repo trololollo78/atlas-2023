@@ -1,0 +1,60 @@
+{
+	"id": -1,
+	"name": "Fennekin",
+	"description": "Fennekin is a Fire-type Pokémon introduced in Generation 6 (Pokémon X/Y). It is one of the initial Pokémon of the Kalos region.",
+	"links": {
+		"website": [
+			"https://bulbapedia.bulbagarden.net/wiki/Fennekin_(Pokémon)"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-1087,
+				143
+			],
+			[
+				-1082,
+				140
+			],
+			[
+				-1078,
+				133
+			],
+			[
+				-1082,
+				133
+			],
+			[
+				-1082,
+				128
+			],
+			[
+				-1089,
+				131
+			],
+			[
+				-1092,
+				126
+			],
+			[
+				-1096,
+				132
+			],
+			[
+				-1094,
+				136
+			],
+			[
+				-1095,
+				138
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-1087,
+			136
+		]
+	}
+}
